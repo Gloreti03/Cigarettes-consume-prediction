@@ -1,1 +1,1 @@
-Group project for an advanced statistics university course. The main goal will be to fit a linear regression model (to predict a continous variable) and a random forest model (to predict a categorical variable) on a road accident risk related dataset.
+Group project for an advanced statistics university course. The main goal will be to fit different regression models (to predict a continous variable) and a random forest model (to predict a categorical variable) on a road accident risk related dataset.
